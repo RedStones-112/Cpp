@@ -25,7 +25,7 @@ int main(){
     if(N < 10){
         N*=10;
     }
-    
+    asdasda
     int a = 1;
     make_num(pointer_num);
     while(num!=N){
