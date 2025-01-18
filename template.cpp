@@ -19,7 +19,7 @@ void CustomClass<T>::test_print(T s){
     cout << data << endl;
 }
 
-
+asasasa
 int main(){
     CustomClass<int> cci;
     cci.test_print(1);
